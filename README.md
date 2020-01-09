@@ -1,2 +1,5 @@
-# RunningMan
-RunningMan is just simple game
+# To learn Kotlin or any android samples project
+
+- OKHTTP
+
+
