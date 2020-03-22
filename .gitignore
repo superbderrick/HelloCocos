@@ -6,6 +6,9 @@
 # Ignore thumbnails created by windows
 Thumbs.db
 
+
+cocos2d/
+
 # Ignore files build by Visual Studio
 *.obj
 *.exe
